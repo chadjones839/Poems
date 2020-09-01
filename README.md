@@ -1,7 +1,3 @@
-## PoKi ERD
-
-![poki erd](./assets/PoKi.png)
-
 ## Investigating the Data
 
 Query the `PoKi` database using SQL `SELECT` statements to answer the following questions.
